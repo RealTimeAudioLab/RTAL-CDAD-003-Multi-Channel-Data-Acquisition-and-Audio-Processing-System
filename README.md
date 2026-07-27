@@ -334,10 +334,10 @@ Most programs were written for **Microsoft C 6.00**. Time-critical sections use 
 | `SINUS.C` | Sine-wave generation through the AD7545 DAC |
 | `HALL.C` | Experimental real-time reverberation / recursive audio processing |
 | `SPEECH.C` | Speech sample acquisition and voice-related processing front end |
-| `VOICES/` | Stored voice patterns and linked voice-processing object module |
-| `HD_Rec/SAMPLE*.C` | Direct sampling, playback, memory, and disk-recording experiments |
-| `HD_Rec/HDRECORD.C` | Hard-disk recorder user interface and disk-management framework |
-| `HD_Rec/HDREC286.ASM` | 80286 assembly routines for block-based recording/playback |
+| `HD-Recording/SAMPLE*.C` | Direct sampling, playback, memory, and disk-recording experiments |
+| `HD-Recording/HDRECORD.C` | Hard-disk recorder user interface and disk-management framework |
+| `HD-Recording/HDREC286.ASM` | 80286 assembly routines for block-based recording/playback |
+| `fonts` | used fonts |
 
 ---
 
