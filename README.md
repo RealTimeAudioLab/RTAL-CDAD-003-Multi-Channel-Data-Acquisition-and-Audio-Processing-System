@@ -21,13 +21,13 @@ The hardware was constructed on prototyping board and wired by hand using point-
 
 ### Component side
 
-![Component side of RTAL ISA AnalogLab 12](images/board-component-side.jpg)
+![Component side of RTAL ISA AnalogLab 12](images/RTAL_MCDA_APS_1.png)
 
 *Component side of the hand-built ISA board.*
 
 ### Wiring side
 
-![Wiring side of RTAL ISA AnalogLab 12](images/board-wiring-side.jpg)
+![Wiring side of RTAL ISA AnalogLab 12](images/RTAL_MCDA_APS_2.png)
 
 *The wiring side documents the point-to-point / wire-wrap construction and the numerous design iterations.*
 
@@ -703,6 +703,10 @@ RTAL ISA Multi Channel Data Aquisition and Audio Processing System is more than 
 - and iterative physical prototyping.
 
 It also shows how a sophisticated laboratory and audio platform could be created with limited financial resources by combining careful design, hand construction, and access to manufacturer sample programs.
+
+![Component side of RTAL ISA AnalogLab 12](images/RTAL_MCDA_APS_3.png)
+
+![Component side of RTAL ISA AnalogLab 12](images/RTAL_MCDA_APS_4.png)
 
 ---
 
