@@ -33,7 +33,7 @@ The hardware was constructed on prototyping board and wired by hand using point-
 
 ### Complete schematic
 
-[Download the complete A3 schematic](schematic/RTAL_MCDA_APS.pdf)
+[Download the complete A3 schematic](schematic/RTAL_MCDA_APS.png)
 
 ![Complete schematic](schematic/RTAL_MCDA_APS.png)
 
