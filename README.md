@@ -336,7 +336,6 @@ Most programs were written for **Microsoft C 6.00**. Time-critical sections use 
 | `HD_Rec/SAMPLE*.C` | Direct sampling, playback, memory, and disk-recording experiments |
 | `HD_Rec/HDRECORD.C` | Hard-disk recorder user interface and disk-management framework |
 | `HD_Rec/HDREC286.ASM` | 80286 assembly routines for block-based recording/playback |
-| `Elrad/` | Additional executable test and demonstration programs |
 
 ---
 
