@@ -323,7 +323,7 @@ Most programs were written for **Microsoft C 6.00**. Time-critical sections use 
 
 | Program / source | Purpose |
 |---|---|
-| `PCAD.EXE`, `PCAD1.C`, `PCAD2.C` | Integrated menu-driven control and analysis environment |
+| `PCAD1.C`, `PCAD2.C` | Integrated menu-driven control and analysis environment |
 | `PRADALL.C` | Acquisition and display of all six ADC channels |
 | `SCOPE1.C` | Single-channel graphical oscilloscope |
 | `SCOPE2.C` | Dual-channel graphical oscilloscope |
