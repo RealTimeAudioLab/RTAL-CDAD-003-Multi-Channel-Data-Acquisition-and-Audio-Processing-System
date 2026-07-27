@@ -685,7 +685,7 @@ The original archive contains files produced by historical compilers and develop
 
 ## What This Project Demonstrates
 
-RTAL ISA AnalogLab 12 is more than a home-built ADC/DAC card. It demonstrates a complete early-1990s engineering workflow:
+RTAL ISA Multi Channel Data Aquisition and Audio Processing System is more than a home-built ADC/DAC card. It demonstrates a complete early-1990s engineering workflow:
 
 - analog front-end design,
 - mixed-signal hardware,
