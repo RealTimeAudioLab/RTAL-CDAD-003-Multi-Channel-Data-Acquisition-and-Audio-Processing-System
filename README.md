@@ -39,11 +39,13 @@ The hardware was constructed on prototyping board and wired by hand using point-
 
 ### Original software
 
-![Software screenshot 1](images/software-screen-01.jpg)
+![Software screenshot 1](images/RTAL_Midi_Sequencer.jpg)
 
-![Software screenshot 2](images/software-screen-02.jpg)
+![Software screenshot 2](images/RTAL_2Channel_Scope.jpg)
 
-![Software screenshot 3](images/software-screen-03.jpg)
+![Software screenshot 3](images/RTAL_HD_Recording.jpg)
+
+![Software screenshot 3](images/RTAL_Stereo_Processing.jpg)
 
 ---
 
