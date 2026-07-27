@@ -1,0 +1,50 @@
+
+ pcad
+
+ Start     Length     Name                   Class
+ 0001:0000 01A78H     PCAD1_TEXT             CODE
+ 0002:0000 007D8H     MENU_TEXT              CODE
+ 0003:0000 046CAH     TBMSC_TEXT             CODE
+ 0004:0000 0448AH     _TEXT                  CODE
+ 0005:0000 007A0H     EMULATOR_TEXT          CODE
+ 0006:0000 05116H     _GR_TEXT               CODE
+ 0007:0000 00000H     C_ETEXT                ENDCODE
+ 0007:0000 00130H     EMULATOR_DATA          FAR_DATA
+ 0008:0000 00004H     FONTLIB5_DATA          FAR_DATA
+ 0009:0000 00016H     FAR_BSS                FAR_BSS
+ 000A:0000 00042H     NULL                   BEGDATA
+ 000A:0042 03662H     _DATA                  DATA
+ 000A:36A4 00002H     XIQC                   DATA
+ 000A:36A6 0000EH     DBDATA                 DATA
+ 000A:36B4 0000EH     CDATA                  DATA
+ 000A:36C2 00000H     XIFB                   DATA
+ 000A:36C2 00004H     XIF                    DATA
+ 000A:36C6 00000H     XIFE                   DATA
+ 000A:36C6 00000H     XIB                    DATA
+ 000A:36C6 0000CH     XI                     DATA
+ 000A:36D2 00000H     XIE                    DATA
+ 000A:36D2 00000H     XPB                    DATA
+ 000A:36D2 00004H     XP                     DATA
+ 000A:36D6 00000H     XPE                    DATA
+ 000A:36D6 00000H     XCB                    DATA
+ 000A:36D6 00000H     XC                     DATA
+ 000A:36D6 00000H     XCE                    DATA
+ 000A:36D6 00000H     XCFB                   DATA
+ 000A:36D6 00004H     XCF                    DATA
+ 000A:36DA 00000H     XCFE                   DATA
+ 000A:36DA 00064H     CONST                  CONST
+ 000A:373E 00008H     HDR                    MSG
+ 000A:3746 001DDH     MSG                    MSG
+ 000A:3923 00002H     PAD                    MSG
+ 000A:3925 00001H     EPAD                   MSG
+ 000A:3926 001B4H     _BSS                   BSS
+ 000A:3ADA 00000H     XOB                    BSS
+ 000A:3ADA 00000H     XO                     BSS
+ 000A:3ADA 00000H     XOE                    BSS
+ 000A:3AE0 04C3EH     c_common               BSS
+ 000A:8720 00800H     STACK                  STACK
+
+ Origin   Group
+ 000A:0   DGROUP
+
+Program entry point at 0004:0010
